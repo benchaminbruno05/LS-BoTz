@@ -45,7 +45,8 @@
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
 * Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
 
-
+# Deploy to railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/xg7j6Y?referralCode=ly-jS9)
 ## Deploy
 You can deploy this bot anywhere.
 
