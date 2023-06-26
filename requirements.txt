@@ -33,3 +33,4 @@ pypdf2
 PyPDF2
 pyshorteners
 ffmpeg-python
+pyrogram>=2.0.30
